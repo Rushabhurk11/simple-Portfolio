@@ -28,10 +28,7 @@ This project is a personal portfolio website created using HTML and CSS. It show
    ```
 2. Open the `index.html` file in your preferred web browser.
 
-## Screenshots
-- **Main Screenshot**:
-  - `main.png`
-  - `main.webp`
+## Media
 - **Profile Picture**:
   - `photo.png`
 
